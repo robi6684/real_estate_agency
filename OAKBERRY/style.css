@@ -1,0 +1,36 @@
+
+DIV{
+	height: 600px;
+    width:100%;
+    
+}
+.hero{
+    width:100%;
+}
+.row
+{
+    width:90%;
+    height:100vh;
+    
+}
+.name
+{
+    height:50px;
+}
+.email
+{
+    height:50px;
+}
+.subject
+{
+    height:50px;
+}
+.message
+{
+    height:500px;
+}
+.footer
+{
+    background-color:darkblue;
+    color:white;
+}
